@@ -10,7 +10,6 @@ I love to push boundaries and work with new technologies like Three.js, WebGL, p
 
 Check out my portfolio at https://www.codebysheen.com/
 
-You can contact me through my contact form, LinkedIn https://www.linkedin.com/in/michael-sheehan-a21570135/ or 
-Twitter.
+
 
 ![](https://komarev.com/ghpvc/?username=michaelpsheehan)
