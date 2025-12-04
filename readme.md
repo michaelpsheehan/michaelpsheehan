@@ -8,7 +8,7 @@ I’m a big fan of the JAM Stack, my portfolio is built with React, Gatsby, Tail
 
 I love to push boundaries and work with new technologies like Three.js, WebGL, page transitions and SVG animations. 
 
-Check out my portfolio at https://www.codebysheen.com/
+
 
 
 
